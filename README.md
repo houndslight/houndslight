@@ -6,12 +6,14 @@
 - Audio Programming
 - Video Game Hacking
 - Full-Stack Web Development
+- Mobile Development
 -->
 
 ### **I am currently working on:**
 - A rhythm game developed in python using pygame called [brg](https://github.com/houndslight/brg).
 - A Counter-Strike 2 cheat named [hExternal](https://streamable.com/1y8zn2).
 - A wavetable synth VST called [HLWT](https://github.com/houndslight/HLWT).
+- A open source music player app designed for iPhones in mind [freewave](https://github.com/houndslight/freewave)
 
 
 ### Social Media:
