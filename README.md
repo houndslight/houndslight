@@ -9,9 +9,9 @@
 -->
 
 ### **I am currently working on:**
-- A rhythm game developed in python using pygame called brg.
-- A Counter-Strike 2 cheat named hExternal.
-- A wavetable synth VST called HLWT.
+- A rhythm game developed in python using pygame called [brg](https://github.com/houndslight/brg).
+- A Counter-Strike 2 cheat named [hExternal](https://streamable.com/1y8zn2).
+- A wavetable synth VST called [HLWT](https://github.com/houndslight/HLWT).
 
 
 ### Social Media:
