@@ -14,7 +14,7 @@
 - A wavetable synth VST called HLWT.
 
 
-### 🌐 Socials:
+### Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjtapocik/) 
 [![X](https://img.shields.io/badge/X-@hounds-blue)](https://x.com/hounds)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zvxh) 
