@@ -13,7 +13,7 @@
 - A rhythm game developed in python using pygame called [brg](https://github.com/houndslight/brg).
 - A Counter-Strike 2 cheat named [hExternal](https://streamable.com/1y8zn2).
 - A wavetable synth VST called [HLWT](https://github.com/houndslight/HLWT).
-- An open source music player app designed for iPhones in mind [freewave](https://github.com/houndslight/freewave).
+- An open source music player app designed for mobile devices [freewave](https://github.com/houndslight/freewave).
 
 
 ### Social Media:
