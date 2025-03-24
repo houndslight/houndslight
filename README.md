@@ -27,3 +27,4 @@
 ### Cerifications:
 - Google - Technical Support Fundementals
 - IBM - Introduction to DevOps
+- Microsoft - Introduction to Azure
