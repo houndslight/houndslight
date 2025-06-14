@@ -10,11 +10,11 @@
 -->
 
 ### **I am currently working on:**
-- A rhythm game developed in python using pygame called [brg](https://github.com/houndslight/brg).
-- A Counter-Strike 2 cheat named [hExternal](https://streamable.com/1y8zn2).
-- A wavetable synth VST called [HLWT](https://github.com/houndslight/HLWT).
-- An open source music player app designed for mobile devices [freewave](https://github.com/houndslight/freewave).
--  A financial trading website with P2P Transactions, Account Storage, Stock Market Data/Trading and Crypto [cipherTrade (not currently public)](#)
+- [ClassicCSMM](https://github.com/houndslight/ClassicCSMM).
+- [hExternal](https://streamable.com/1y8zn2).
+- [HLWT](https://github.com/houndslight/HLWT).
+- [freewave](https://github.com/houndslight/freewave).
+- [cipherTrade (not currently public)](#)
 
 
 ### Social Media:
