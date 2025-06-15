@@ -10,11 +10,10 @@
 -->
 
 ### **I am currently working on:**
-- [ClassicCSMM](https://github.com/houndslight/ClassicCSMM).
-- [hExternal](https://streamable.com/1y8zn2).
-- [HLWT](https://github.com/houndslight/HLWT).
-- [freewave](https://github.com/houndslight/freewave).
-- [cipherTrade (not currently public)](#)
+- [ClassicCSMM](https://github.com/houndslight/ClassicCSMM)
+- [hExternal]((https://github.com/houndslight/))
+- [HLWT](https://github.com/houndslight/HLWT)
+- [freewave](https://github.com/houndslight/freewave)
 
 
 ### Social Media:
