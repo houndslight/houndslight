@@ -4,17 +4,9 @@
 
 ### I am a **Software Developer** who works in:
 - Audio Programming
-- Video Game Hacking
 - Full-Stack Web Development
 - Mobile Development
 -->
-
-### **I am currently working on:**
-- [ClassicCSMM](https://github.com/houndslight/ClassicCSMM)
-- [hExternal](https://github.com/houndslight/hExternal)
-- [HLWT](https://github.com/houndslight/HLWT)
-- [freewave](https://github.com/houndslight/freewave)
-
 
 ### Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjtapocik/) 
