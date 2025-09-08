@@ -27,15 +27,6 @@ Built to help manage job searches — includes user system, persistence, and das
 
 ---
 
-## What I’m Working On
-
-- Expanding **[ClassicCSMM](https://github.com/houndslight/ClassicCSMM)** – a custom server manager  
-- Building **[hExternal](https://github.com/houndslight/hExternal)** – utility development  
-- Improving **[HLWT](https://github.com/houndslight/HLWT)** – ongoing project  
-- Experimenting with audio tools via **[freewave](https://github.com/houndslight/freewave)**  
-
----
-
 ## Why Me?
 
 - I build **practical, portfolio-ready projects** that solve real problems.  
