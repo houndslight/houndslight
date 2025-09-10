@@ -16,6 +16,10 @@ Demonstrates frontend design, modular structure, and playback integration.
 A **job application tracker** with account creation, authentication, and a full CRUD REST API.  
 Built to help manage job searches — includes user system, persistence, and dashboard UI.  
 
+### [lucky-shrub-landingpage-meta-frontend-project](https://github.com/houndslight/lucky-shrub-landingpage-meta-frontend-project)
+A **responsive front-end project** built as part of the Meta Front-End Developer Certificate on Coursera.
+
+
 ---
 
 ## Technical Skills
