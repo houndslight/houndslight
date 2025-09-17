@@ -16,6 +16,9 @@ Demonstrates frontend design, modular structure, and playback integration.
 A **job application tracker** with account creation, authentication, and a full CRUD REST API.  
 Built to help manage job searches — includes user system, persistence, and dashboard UI.  
 
+### [nextMove](https://github.com/houndslight/nextMove)
+A fast, open-source **Rust app** to track your job applications—no ads, no trackers, full control of your career. 
+
 ### [lucky-shrub-landingpage-meta-frontend-project](https://github.com/houndslight/lucky-shrub-landingpage-meta-frontend-project)
 A **responsive front-end project** built as part of the Meta Front-End Developer Certificate on Coursera.
 
