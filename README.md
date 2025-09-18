@@ -8,7 +8,7 @@ I learn by doing — every project here is something I designed, built, and ship
 
 ## Featured Projects
 
-### [h0stream](https://github.com/houndslight/h0stream)  
+### [BankUX](https://github.com/houndslight/BankUX)  
 A **Netflix-style streaming clone** with a working video player, clean UI, and multi-page navigation.  
 Demonstrates frontend design, modular structure, and playback integration.  
 
