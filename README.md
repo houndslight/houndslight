@@ -8,7 +8,7 @@ I learn by doing — every project here is something I designed, built, and ship
 
 ## Featured Projects
 
-### [BankUX](https://github.com/houndslight/BankUX) [demo](https://bankuxvercel.vercel.app/)  
+### [BankUX](https://github.com/houndslight/BankUX) [(demo)](https://bankuxvercel.vercel.app/)  
 A **frontend user-interface project for banking applications**, built with JavaScript, HTML, and CSS. Provides clean, responsive UI templates and components to streamline development of online banking dashboards and customer-facing features. 
 
 ### [job-tracker](https://github.com/houndslight/job-tracker)  
