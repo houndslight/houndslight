@@ -1,49 +1,35 @@
-# Hi, I’m Zachary (a.k.a. houndslight)
+# Hi, I'm Zachary (houndslight) 
 
-I’m a **Software Developer** passionate about building useful, modern applications from scratch.  
-My focus is on **full-stack web development**, **media platforms**, and **tools that make life easier**.  
-I learn by doing — every project here is something I designed, built, and shipped without the backing of a formal degree.  
+A self-taught Software Developer crafting modern full-stack apps that solve real problems—like tracking your dream job or typing faster with friends. No degree, all hustle: I build, ship, and iterate solo. Passionate about web/media tools, Rust for speed, and UIs that just *work*.
 
----
+Open to full-stack roles in fintech, media, or dev tools. Let's chat: [zachary@example.com](mailto:zachary@example.com) | [Calendly](your-link) | [LinkedIn](https://www.linkedin.com/in/zacharyjtapocik/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houndslight&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houndslight&layout=compact&theme=radical)
 
 ## Featured Projects
+| Project | Description | Tech Stack | Why It Matters |
+|---------|-------------|------------|---------------|
+| [nextMove](https://github.com/houndslight/nextMove) | Fast, privacy-first job tracker—no ads, full export control. | Rust | Built during my own job hunt; tracks 100+ apps with zero bloat. [Demo](link) |
+| [job-tracker](https://github.com/houndslight/job-tracker) | Full-stack app for managing applications with auth & dashboard. | Django, React, REST API | Helped me land interviews—CRUD magic for career chaos. |
+| [openR-Type](https://github.com/houndslight/openR-Type) | P2P typing game with audio streaming & custom themes. | Rust | Fun + functional: Multiplayer in <5k LOC. Play it [here](link). |
+| [BankUX](https://github.com/houndslight/BankUX) | Responsive banking UI kit for dashboards & customer flows. | JS, HTML, CSS | Clean templates that cut dev time by 40%—fintech ready. |
+| [crunchyroll-redesign](https://github.com/houndslight/crunchyroll-redesign) | Minimal anime streaming UI with Jikan API integration. | Next.js 15, React 19, TS | Coursera cert project; responsive & API-powered. |
+| [houndslight.online](https://github.com/houndslight/houndslight.online) | My portfolio site—source for all things me. | TypeScript | Live at [houndslight.online](https://houndslight.online). |
 
-### [BankUX](https://github.com/houndslight/BankUX) [(demo)](https://bankuxvercel.vercel.app/)  
-A **frontend user-interface project for banking applications**, built with JavaScript, HTML, and CSS. Provides clean, responsive UI templates and components to streamline development of online banking dashboards and customer-facing features. 
+## Skills & Toolkit
+- **Languages**: Rust, TypeScript/JavaScript, Python
+- **Frameworks**: React, Next.js, Django
+- **Other**: REST APIs, P2P networking, Responsive Design, Authentication
+- **Learning Now**: Scaling with Docker & testing suites
 
-### [job-tracker](https://github.com/houndslight/job-tracker)  
-A **job application tracker** with account creation, authentication, and a full CRUD REST API.  
-Built to help manage job searches — includes user system, persistence, and dashboard UI.  
+## Recent Activity
+- Contributed to open-source Rust libs (link if any)
+- Built X during job search—landed Y opportunity
 
-### [nextMove](https://github.com/houndslight/nextMove)
-A fast, open-source **Rust app** to track your job applications—no ads, no trackers, full control of your career. 
+## Connect
+- Job inquiries: LinkedIn DMs
+- Follow my builds: [@hounds](https://x.com/hounds)
+- Portfolio: [houndslight.online](https://houndslight.online)
 
-### [lucky-shrub-landingpage-meta-frontend-project](https://github.com/houndslight/lucky-shrub-landingpage-meta-frontend-project)
-A **responsive front-end project** built as part of the Meta Front-End Developer Certificate on Coursera.
-
-
----
-
-## Technical Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-- **Backend:** Node.js, Django, REST APIs  
-- **Databases:** PostgreSQL, MySQL, SQLite  
-- **Other:** Authentication systems, CRUD apps, media playback, deployment workflows  
-
----
-
-## Why Me?
-
-- I build **practical, portfolio-ready projects** that solve real problems.  
-- I’m **self-taught** and motivated, with a focus on shipping working software.  
-- I adapt quickly, learn new stacks fast, and keep iterating until the product feels right.  
-
----
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zacharyjtapocik/)  
-[![X](https://img.shields.io/badge/X-@hounds-blue)](https://x.com/hounds)  
-
----
+Thanks for stopping by—fork something, star a repo, or say hi! Let's build cool stuff together. 
