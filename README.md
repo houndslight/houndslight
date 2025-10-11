@@ -2,7 +2,7 @@
 
 A self-taught Software Developer crafting modern full-stack apps that solve real problems—like tracking your dream job or typing faster with friends. No degree, all hustle: I build, ship, and iterate solo. Passionate about web/media tools, Rust for speed, and UIs that just *work*.
 
-Open to full-stack roles in fintech, media, or dev tools. Let's chat: [zachary@example.com](mailto:zachary@example.com) | [Calendly](https://calendly.com/9zach-james/30min) | [LinkedIn](https://www.linkedin.com/in/zacharyjtapocik/)
+Open to full-stack roles in fintech, media, or dev tools. Let's chat: [ocean@outlook.lv](mailto:ocean@outlook.lv) | [Calendly](https://calendly.com/9zach-james/30min) | [LinkedIn](https://www.linkedin.com/in/zacharyjtapocik/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houndslight&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houndslight&layout=compact&theme=radical)
