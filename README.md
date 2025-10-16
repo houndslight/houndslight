@@ -11,10 +11,11 @@ Open to full-stack roles in fintech, media, or dev tools. Let's chat: [ocean@out
 | Project | Description | Tech Stack | Why It Matters |
 |---------|-------------|------------|---------------|
 | [nextMove](https://github.com/houndslight/nextMove) | Fast, privacy-first job tracker—no ads, full export control. | Rust | Built during my own job hunt; tracks 100+ apps with zero bloat. [Demo](link) |
-| [job-tracker](https://github.com/houndslight/job-tracker) | Full-stack app for managing applications with auth & dashboard. | Django, React, REST API | Helped me land interviews—CRUD magic for career chaos. |
+| [leaf](https://github.com/houndslight/leaf) | Leaf — a modern static site generator that turns Markdown into beautiful, production-ready pages. | Rust, npm, next.js, vue.js | Making this to make my workflow easier. |
 | [openR-Type](https://github.com/houndslight/openR-Type) | P2P typing game with audio streaming & custom themes. | Rust | Fun + functional: Multiplayer in <5k LOC. Play it [here](link). |
 | [BankUX](https://github.com/houndslight/BankUX) | Responsive banking UI kit for dashboards & customer flows. | JS, HTML, CSS | Clean templates that cut dev time by 40%—fintech ready. |
 | [crunchyroll-redesign](https://github.com/houndslight/crunchyroll-redesign) | Minimal anime streaming UI with Jikan API integration. | Next.js 15, React 19, TS | Coursera cert project; responsive & API-powered. |
+| [Kyoku](https://github.com/houndslight/Kyoku) | minimalist local music player that redefines how users interact with their personal libraries. | TypeScript, React, React Native, Electron | Live at [kyoku-web.vercel.app](kyoku-web.vercel.app). |
 | [houndslight.online](https://github.com/houndslight/houndslight.online) | My portfolio site—source for all things me. | TypeScript | Live at [houndslight.online](https://houndslight.online). |
 
 ## Skills & Toolkit
