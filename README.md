@@ -4,9 +4,6 @@ A self-taught Software Developer crafting modern full-stack apps that solve real
 
 Open to full-stack roles in fintech, media, or dev tools. Let's chat: [ocean@outlook.lv](mailto:ocean@outlook.lv) | [Calendly](https://calendly.com/9zach-james/30min) | [LinkedIn](https://www.linkedin.com/in/zacharyjtapocik/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houndslight&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houndslight&layout=compact&theme=radical)
-
 ## Featured Projects
 | Project | Description | Tech Stack | Why It Matters |
 |---------|-------------|------------|---------------|
