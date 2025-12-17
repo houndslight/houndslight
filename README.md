@@ -1,6 +1,7 @@
 Hi, I’m Zachary (houndslight).
 
-I’m a full-stack software engineer focused on building production-ready systems end to end — from backend architecture and APIs to clean, usable frontends. I care about correctness, performance, and maintainability over shortcuts.
+I’m a full-stack software engineer focused on building production-ready systems end to end. 
+From backend architecture and APIs to clean, usable frontends. I care about correctness, performance, and maintainability over shortcuts.
 
 I’ve worked across real-time systems, full CRUD applications, developer tooling, and cross-platform UIs, with an emphasis on writing code that scales and can be owned long-term.
 
